@@ -3,7 +3,7 @@ QuéPS - A Lightweight **Q**ueries **P**er **S**econd Measuring Service
 
 ## Install
 ```sh
-go install github.com/sha65536/queps@master
+go install github.com/sha65536/queps@main
 ```
 
 ## Usage
